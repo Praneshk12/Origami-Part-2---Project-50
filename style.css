@@ -10,6 +10,11 @@
 body{
     background-color:whitesmoke;
 }
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .gridimg{
     border: 2px solid black;
 }
